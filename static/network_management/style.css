@@ -1,0 +1,17 @@
+li a {
+    color: green;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+body {
+    color: blue;
+  }
+
+
+
